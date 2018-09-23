@@ -51,9 +51,12 @@ header{
 .pd-bottom{
 	margin-bottom: 10px;
 }
-
+.pd-center{
+	margin-left: 10px;
+	margin-right: 10px;
+}
 .bg-orange a{
-	color: #fff;
+	color: #fff!important;
 }
 .icon-menu{
 	width: 40px !important;
@@ -74,4 +77,14 @@ header{
 .sidebar-nav>ul>li.selected>a{
 	color: #fff;
 	background-color: #ffa726;
+}
+.modal-content{
+	background-image: url("../../assets/images/splash_bg.png");
+	background-size: contain;
+	color: #343a40;
+}
+
+.bank-img{
+	width: 50px;
+	position: relative;
 }

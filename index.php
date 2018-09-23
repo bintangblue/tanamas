@@ -84,7 +84,7 @@
                                 </a>
                             </li>
                         </ul>
-                        <div class="tab-content" id="pills-tabContent">
+                        <div class="tab-content pd-top" id="pills-tabContent">
                             <!-- Tab 1 -->
                             <div class="tab-pane fade show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
                                 HARGA JUAL <br> <h3>Rp. 480.000</h3>

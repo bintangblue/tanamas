@@ -33,10 +33,10 @@
                 <div class="col-12 text-right">
                     <a href="form_beli.php" class="btn btn-warning">Beli</a>
                 </div>
-                <div class="row">
+                <div class="row pd-bottom">
                     <div class="col text-center">
-                        <h6 class="b-bottom">EMAS SAYA</h6>
-                        <h5>2355 gram</h5>                        
+                        <h6>EMAS SAYA</h6>
+                        <h5 class="b-bottom">2355 gram</h5>                        
                     </div>
                 </div>
                 <div class="col-12 bg-orange">
@@ -51,7 +51,7 @@
                             <tr>
                                 <td><img src="assets/images/icon/buy.png"></td>
                                 <td>Beli<br>13/01/2012</td>
-                                <td>2442 gr <br>Rp. 454.224</td>
+                                <td class="text-right">2442 gr <br>Rp. 454.224</td>
                             </tr>
                             <?php } ?>
                         </tbody>

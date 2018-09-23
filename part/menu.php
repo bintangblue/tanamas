@@ -27,9 +27,9 @@
                                 <a class="dropdown-item" href="javascript:void(0)">
                                     <i class="ti-user m-r-5 m-l-5"></i> My Profile</a>
                                 <a class="dropdown-item" href="javascript:void(0)">
-                                    <i class="ti-wallet m-r-5 m-l-5"></i> Rp. 2.000.000.</a>
+                                    <i class="fas fa-dollar-sign"></i> Rp. 2.000.000.</a>
                                 <a class="dropdown-item" href="javascript:void(0)">
-                                    <i class="ti-email m-r-5 m-l-5"></i> 3.000 gr</a>
+                                    <i class="fas fa-dot-circle"></i> 3.000 gr</a>
                                 <div class="dropdown-divider"></div>
                                 <a class="dropdown-item" href="javascript:void(0)">
                                     <i class="ti-settings m-r-5 m-l-5"></i> Account Setting</a>
@@ -45,28 +45,28 @@
                 <li class="sidebar-item">
                     <a class="sidebar-link waves-effect waves-dark sidebar-link" href="index.php
                            " aria-expanded="false">
-                        <i class="mdi mdi-content-paste"></i>
-                        <span class="hide-menu">Harga Emas</span>
+                        <i class="ti-home"></i>
+                        <span class="hide-menu">Home</span>
                     </a>
                 </li>
                 <li class="sidebar-item">
                     <a class="sidebar-link waves-effect waves-dark sidebar-link" href="beli.php
                            " aria-expanded="false">
-                        <i class="mdi mdi-content-paste"></i>
+                        <i class="mdi mdi-call-received"></i>
                         <span class="hide-menu">Beli Emas</span>
                     </a>
                 </li>
                 <li class="sidebar-item">
                     <a class="sidebar-link waves-effect waves-dark sidebar-link" href="jual.php
                            " aria-expanded="false">
-                        <i class="mdi mdi-content-paste"></i>
+                        <i class="mdi mdi-call-made"></i>
                         <span class="hide-menu">Jual Emas</span>
                     </a>
                 </li>
                 <li class="sidebar-item">
                     <a class="sidebar-link waves-effect waves-dark sidebar-link" href="docs/documentation.html
                            " aria-expanded="false">
-                        <i class="mdi mdi-content-paste"></i>
+                        <i class="ti-reload"></i>
                         <span class="hide-menu">Transfer Emas</span>
                     </a>
                 </li>
