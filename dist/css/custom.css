@@ -1,0 +1,42 @@
+body{
+	background-image: url("../../assets/images/splash_bg.png");
+	background-size: contain;
+}
+header{
+	background:none!important;
+}
+.logo-custom{
+	height: 30px;
+	width: 100%: 
+}
+#main-wrapper[data-layout=vertical] .topbar .top-navbar .navbar-header[data-logobg=skin5], #main-wrapper[data-layout=horizontal] .topbar .top-navbar .navbar-header[data-logobg=skin5] { 
+	background:none!important;
+}
+.topbar .nav-toggler, .topbar .topbartoggler{
+	color: #343a40;
+}
+#main-wrapper[data-layout=vertical] .left-sidebar[data-sidebarbg=skin5], #main-wrapper[data-layout=vertical] .left-sidebar[data-sidebarbg=skin5] ul, #main-wrapper[data-layout=horizontal] .left-sidebar[data-sidebarbg=skin5], #main-wrapper[data-layout=horizontal] .left-sidebar[data-sidebarbg=skin5] ul{
+	background-image: url("../../assets/images/splash_bg.png");
+	background-size: contain;
+	color: #343a40;
+}
+.user-profile .user-content, .user-profile .user-email, .user-profile .user-name{
+	color: #343a40;
+}
+.sidebar-nav ul .sidebar-item .sidebar-link{
+	color: #343a40;
+}
+.sidebar-nav ul .sidebar-item .sidebar-link i{
+	color: #343a40;
+}
+.page-wrapper{
+	background:none!important;
+}
+.bg-orange{
+	color: #fff;
+	background-color: #ffa726;
+}
+
+.bg-orange a{
+	color: #fff;
+}
