@@ -35,11 +35,11 @@
                 </div>
                 <div class="row">
                     <div class="col text-center">
-                        <h4>EMAS SAYA</h4><br>
-                        <h4>2355 gram</h4>                        
+                        <h6 class="b-bottom">EMAS SAYA</h6>
+                        <h5>2355 gram</h5>                        
                     </div>
                 </div>
-                <div class="col-12">
+                <div class="col-12 bg-orange">
                     <h5>History Transaksi</h5>
                 </div>
                 <div class="table-responsive">
@@ -49,7 +49,7 @@
                             for($i=0;$i<=10;$i++){
                             ?>
                             <tr>
-                                <td>image</td>
+                                <td><img src="assets/images/icon/buy.png"></td>
                                 <td>Beli<br>13/01/2012</td>
                                 <td>2442 gr <br>Rp. 454.224</td>
                             </tr>

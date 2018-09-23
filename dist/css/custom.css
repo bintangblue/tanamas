@@ -36,7 +36,42 @@ header{
 	color: #fff;
 	background-color: #ffa726;
 }
+.pd-menu1{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+}
+
+.pd-menu2{
+	margin:10px 10px 10px 10px;
+}
+.pd-top{
+	margin-top: 10px;
+}
+.pd-bottom{
+	margin-bottom: 10px;
+}
 
 .bg-orange a{
 	color: #fff;
+}
+.icon-menu{
+	width: 40px !important;
+}
+
+.b-radius{
+	border-radius: 10px;
+}
+.b-bottom{
+	border-bottom: 1px solid rgba(0,0,0,.125);
+	border-color: #ffa726;
+}
+.card-padding{
+	padding-right: 15px;
+	padding-left:15px;
+	border-color: #ffa726;
+}
+.sidebar-nav>ul>li.selected>a{
+	color: #fff;
+	background-color: #ffa726;
 }

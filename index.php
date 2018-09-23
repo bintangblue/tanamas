@@ -29,20 +29,26 @@
         <!-- Page wrapper  -->
         <!-- ============================================================== -->
         <div class="page-wrapper">
-            <div class="container-fluid">
-                <div class="row">
-                    <div class="col text-center">
-                        <h3>HARGA EMAS</h3>                        
-                    </div>
+            <div class="container-fluid">                
+                <div class="col-12 text-center">
+                    <h3>HARGA EMAS</h3>                        
                 </div>
-                <div class="row bg-orange text-center">
-                    <div class="col">Pay</div>
-                    <div class="col">Withdraw</div>
-                    <div class="col">Add</div>
-                    <div class="col">History</div>
+                <div class="row bg-orange text-center pd-menu1">
+                    <div class="col"><a href="#">
+                        <img class="icon-menu" src="assets/images/icon/pay.png"> <br>
+                    Pay</a></div>
+                    <div class="col"><a href="#">
+                        <img class="icon-menu" src="assets/images/icon/withdraw.png"> <br>
+                    Withdraw</a></div>
+                    <div class="col"><a href="#">
+                        <img class="icon-menu" src="assets/images/icon/add_file.png"> <br>
+                    Add</a></div>
+                    <div class="col"><a href="#">
+                        <img class="icon-menu" src="assets/images/icon/history.png"> <br>
+                    History</a></div>
                 </div>
                 <div class="col-12">
-                    <div class="card text-center">
+                    <div class="card text-center card-padding">
                         <div class="row bg-orange">
                             <div class="col">                                
                                 Emas Saya
@@ -62,9 +68,9 @@
                     </div>
                 </div>
 
-                <div class="row text-center">
+                <div class="row text-center pd-bottom">
                     <div class="col customizer-body">
-                        <ul class="nav customizer-tab  bg-orange" role="tablist">
+                        <ul class="nav customizer-tab  bg-orange b-radius" role="tablist">
                             <li class="nav-item col-6">
                                 <a class="nav-link active" id="pills-home-tab" data-toggle="pill" href="#pills-home" role="tab
                                                " aria-controls="pills-home" aria-selected="true">
@@ -94,12 +100,16 @@
                 </div>
 
                 <div class="row bg-orange text-center">
-                    <div class="col">E-Zakat</div>
-                    <div class="col">MasPay</div>
+                    <div class="col pd-menu2"><a href="#">
+                        <img class="icon-menu" src="assets/images/icon/zakat.png"> <br>E-Zakat</a></div>
+                    <div class="col pd-menu2"><a href="#">
+                        <img class="icon-menu" src="assets/images/icon/maspay.png"> <br>MasPay</a></div>
                 </div>
                 <div class="row bg-orange text-center">
-                    <div class="col">Gerai</div>
-                    <div class="col">Panduan</div>
+                    <div class="col pd-menu2"><a href="#">
+                        <img class="icon-menu" src="assets/images/icon/shop.png"> <br>Gerai</a></div>
+                    <div class="col pd-menu2"><a href="#">
+                        <img class="icon-menu" src="assets/images/icon/info.png"> <br>Panduan</a></div>
                 </div>
             </div>
         </div>
