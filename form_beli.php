@@ -69,21 +69,21 @@
                                     <button type="button" class="btn waves-effect waves-light btn-outline-warning col" onclick="dariRupiah(1000000)">1 JUTA</button>
                                     <button type="button" class="btn waves-effect waves-light btn-outline-warning col"  data-toggle='modal' data-target="#lain-rp">LAINNYA</button>
                                     <div class="modal fade" id="lain-rp">
-                                            <div class="modal-dialog">
-                                                <div class="modal-content">
-                                                    <div class="modal-header">
-                                                        <button type="button" class="close" data-dismiss='modal'>&times;</button>
-                                                    </div>
-                                                    <div class="modal-body text-left">
-                                                        Masukan Nominal
-                                                        <input type="number" class="form-control" value="" id="n_rp" onkeyup="inputDariRupiah(this)">
-                                                    </div>
-                                                    <div class="modal-footer">
-                                                        <button type="button" class="close" data-dismiss='modal'>Pilih</button>
-                                                    </div>
-                                                </div>                                    
-                                            </div>                                
-                                        </div>
+                                        <div class="modal-dialog">
+                                            <div class="modal-content">
+                                                <div class="modal-header">
+                                                    <button type="button" class="close" data-dismiss='modal'>&times;</button>
+                                                </div>
+                                                <div class="modal-body text-left">
+                                                    Masukan Nominal
+                                                    <input type="number" class="form-control" value="" id="n_rp" onkeyup="inputDariRupiah(this)">
+                                                </div>
+                                                <div class="modal-footer">
+                                                    <button type="button" class="close" data-dismiss='modal'>Pilih</button>
+                                                </div>
+                                            </div>                                    
+                                        </div>                                
+                                    </div>
                                 </div>
                             </div>
                             <!-- End Tab 1 -->

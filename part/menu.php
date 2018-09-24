@@ -64,7 +64,7 @@
                     </a>
                 </li>
                 <li class="sidebar-item">
-                    <a class="sidebar-link waves-effect waves-dark sidebar-link" href="docs/documentation.html
+                    <a class="sidebar-link waves-effect waves-dark sidebar-link" href="transfer.php
                            " aria-expanded="false">
                         <i class="ti-reload"></i>
                         <span class="hide-menu">Transfer Emas</span>
